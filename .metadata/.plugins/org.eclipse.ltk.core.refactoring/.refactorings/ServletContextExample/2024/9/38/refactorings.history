@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ServletContextExample/src/main/java/com/example/MyServlet1.java&apos; to &apos;MyServlet2.java&apos;" description="Rename resource &apos;MyServlet1.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/example/MyServlet1.java" name="MyServlet2.java" stamp="1726576264563" updateReferences="true"/>
+</session>

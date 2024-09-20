@@ -1,0 +1,48 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="UserController" method="post" name="form">
+		<div class="container" >
+		<h1>User Registration Form</h1>
+			<div class="row mt-5">
+				<div class="col-2"></div>
+				<div class="col-6">
+				<table>
+					<tr class="mb-3">
+						<td>Firstname</td>
+						<td><input type = "text" name ="fname" onblur="check_fname();"></td>
+						<td><span id="errorfname" style="color:red;"></span></td>
+					</tr>
+					<tr class="mb-3">
+						<td>Lastname</td>
+						<td><input type = "text" name ="lname" onblur="check_lname();"></td>
+						<td><span id="errorlname" style="color:red;"></span></td>
+					</tr>
+					<tr class="mb-3">
+						<td>Email</td>
+						<td><input type = "text" name ="email" onblur="searchInfo()" onblur="check_email();"></td>
+						<td><span id="tops" style="color:red;"></span> </td>
+						<td><span id="erroremail" style="color:red;"></span></td>
+					</tr>
+					<tr class="mb-3">
+						<td>Mobile </td>
+						<td><input type = "text" name ="mobile"></td>
+						 <td><span id="errormobile" style="color:red;"></span></td> 
+					</tr>
+					<tr class="mb-3">
+						<td><input type = "Submit" name ="action" value ="Insert"></td>
+					</tr>
+					
+					</table>
+				</div>
+			</div>
+		</div>
+	</form>
+</body>
+</html>

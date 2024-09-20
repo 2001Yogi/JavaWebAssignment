@@ -1,0 +1,15 @@
+package model;
+
+import java.util.Random;
+
+public class SendEmail {
+	public String getRandom() {
+		Random r = new Random();
+		int num = r.nextInt(999999);
+		return String.format("%06d",num );
+	}
+	
+	public boolean sendEmail(User u) {
+		boolean test  = "false";
+	}
+}

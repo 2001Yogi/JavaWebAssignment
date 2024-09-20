@@ -1,0 +1,8 @@
+package model;
+
+public class SendEmail {
+	public String getRandom() {
+		Random r = new Random();
+		int num = r.nextInt(999999);
+	}
+}

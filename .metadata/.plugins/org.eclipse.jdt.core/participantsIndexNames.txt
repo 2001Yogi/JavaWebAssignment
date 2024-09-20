@@ -1,0 +1,27 @@
+INDEX VERSION 1.134
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\463845197.index
+\MessageMVC\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2546698215.index
+\FormSubmitUsingRegularExpression\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2771189559.index
+\ServletConfigExample\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1445880457.index
+\DatabaseJSTLSQLTAG\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3476967583.index
+\JSPCRUD\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2158016684.index
+\Pillow_Ecom\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3966167128.index
+\ServletConfigExample\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\545090159.index
+\StudentInformation\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1453286407.index
+\JSPServletCRUD\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\365415265.index
+\JSPServletCRUD\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2210968271.index
+\MessageMVCCrud\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1139202381.index
+\ValidateJSP\src\main\java
+C:\Users\yogit\Java Web Technology assignment\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4229192417.index
+\ServletContextExample\src\main\java
